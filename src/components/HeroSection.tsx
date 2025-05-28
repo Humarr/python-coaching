@@ -21,7 +21,7 @@ export default function Hero() {
                 <p className="text-lg md:text-xl text-text mb-8 max-w-xl">
                     AI isn&#39;t replacing programmers. It&#39;s replacing people who don&#39;t understand code. Our step-by-step coaching turns you into the kind of coder AI assists — not replaces.
                 </p>
-                <Link href="#cta">
+                <Link href="/checkout">
                     {/* <button className="bg-accent text-white font-heading text-lg px-6 py-3 rounded-lg hover:bg-secondary transition cursor-pointer">
                         Join the Program Now
                     </button> */}

@@ -52,6 +52,6 @@ h6 {
 
 body {
   background: var(--color-background);
-  color: var(--foreground);
+  color: var(--color-text);
   font-family: var(--font-body);
 }
